@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<beans>
-    <bean id="test" class="cqu.ma.ioc.Test">
-        <property name="name" value="one"></property>
-        <property name="id" value="123456"></property>
-        <property name="price" value="3.1415"></property>
-    </bean>
-</beans>
