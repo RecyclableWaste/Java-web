@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ioc" />
+        <module name="webTestMySpringmvc" />
+        <module name="mySpringmvcFramework" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ioc" target="13" />
+      <module name="mySpringmvcFramework" target="13" />
+      <module name="webTestMySpringmvc" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

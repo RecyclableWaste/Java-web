@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ioc/ioc.iml" filepath="$PROJECT_DIR$/ioc/ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySpringmvcFramework/mySpringmvcFramework.iml" filepath="$PROJECT_DIR$/mySpringmvcFramework/mySpringmvcFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webTestMySpringmvc/webTestMySpringmvc.iml" filepath="$PROJECT_DIR$/webTestMySpringmvc/webTestMySpringmvc.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/chiyikou/Desktop/java/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4093482000.index
+3509602833.index
+2239630258.index
+2852431768.index
+1267673095.index
+2232889014.index
+3367678648.index
